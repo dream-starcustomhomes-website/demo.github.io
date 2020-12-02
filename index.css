@@ -39,22 +39,10 @@ h1{
 
 
 }
-h2{
-    text-align: center;
-    color: white;
- background-color: rgb(68, 78, 230);
- padding: 20px;
 
-}
 h3{
-font-weight: bold;
 font-style: italic;
-    text-align: center;
-    
-   
-    
-
-}
+    text-align: center;}
 p{
      font-style: italic;
 }
