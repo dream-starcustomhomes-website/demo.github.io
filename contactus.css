@@ -6,3 +6,9 @@ img{
 p{
   font-weight: bolder;
 }
+body{
+    border: solid 4px violet;
+    margin: 30px;
+    padding: 30px;
+}
+
